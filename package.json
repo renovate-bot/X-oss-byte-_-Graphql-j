@@ -47,10 +47,10 @@
     "gitpublish:deno": "bash ./resources/gitpublish.sh deno denoDist"
   },
   "devDependencies": {
-    "@babel/core": "7.12.10",
-    "@babel/plugin-transform-flow-strip-types": "7.12.10",
-    "@babel/preset-env": "7.12.11",
-    "@babel/register": "7.12.10",
+    "@babel/core": "7.25.9",
+    "@babel/plugin-transform-flow-strip-types": "7.25.9",
+    "@babel/preset-env": "7.25.9",
+    "@babel/register": "7.25.9",
     "@typescript-eslint/eslint-plugin": "4.14.0",
     "@typescript-eslint/parser": "4.14.0",
     "babel-eslint": "10.1.0",
