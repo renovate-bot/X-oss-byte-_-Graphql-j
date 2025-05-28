@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "graphql": "file:../graphql.tgz",
-    "typescript-2.6": "npm:typescript@2.6.x",
+    "typescript-2.6": "npm:typescript@2.9.x",
     "typescript-2.7": "npm:typescript@2.7.x",
     "typescript-2.8": "npm:typescript@2.8.x",
     "typescript-2.9": "npm:typescript@2.9.x",
