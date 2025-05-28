@@ -10,7 +10,7 @@
     "typescript-2.8": "npm:typescript@2.8.x",
     "typescript-2.9": "npm:typescript@2.9.x",
     "typescript-3.0": "npm:typescript@3.0.x",
-    "typescript-3.1": "npm:typescript@3.1.x",
+    "typescript-3.1": "npm:typescript@3.9.x",
     "typescript-3.2": "npm:typescript@3.2.x",
     "typescript-3.3": "npm:typescript@3.3.x",
     "typescript-3.4": "npm:typescript@3.4.x",
