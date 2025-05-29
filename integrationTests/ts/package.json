@@ -13,7 +13,7 @@
     "typescript-3.1": "npm:typescript@3.1.x",
     "typescript-3.2": "npm:typescript@3.2.x",
     "typescript-3.3": "npm:typescript@3.3.x",
-    "typescript-3.4": "npm:typescript@3.4.x",
+    "typescript-3.4": "npm:typescript@3.9.x",
     "typescript-3.5": "npm:typescript@3.5.x",
     "typescript-3.6": "npm:typescript@3.6.x",
     "typescript-3.7": "npm:typescript@3.7.x",
